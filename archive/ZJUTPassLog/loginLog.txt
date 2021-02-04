@@ -1,0 +1,32 @@
+{
+    "Department": "计算机科学与技术学院、软件学院",
+    "Time": "2020-9-12 5:32:6",
+    "ID": "1",
+    "Info": "fl=23f327 ; h=www.cloudflare.com ; ip=1.65.197.27 ; ts=1599859927.786 ; visit_scheme=https ; uag=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 ; colo=HKG ; http=http/2 ; loc=HK ; tls=TLSv1.3 ; sni=plaintext ; warp=off ; ",
+    "Name": "1",
+    "SID": "1"
+}
+{
+    "Department": "计算机科学与技术学院、软件学院",
+    "Time": "2020-9-12 11:23:35",
+    "ID": "411381199912066313",
+    "Info": "fl=35f678 ; h=www.cloudflare.com ; ip=45.118.134.242 ; ts=1599881022.671 ; visit_scheme=https ; uag=Mozilla/5.0 (iPhone; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/7.0.15(0x17000f2c) NetType/WIFI Language/zh_CN ; colo=SIN ; http=http/2 ; loc=SG ; tls=TLSv1.3 ; sni=plaintext ; warp=off ; ",
+    "Name": "刘阳",
+    "SID": "201806061813"
+}
+{
+    "Department": "计算机科学与技术学院、软件学院",
+    "Time": "2020-9-12 11:25:4",
+    "ID": "123456789",
+    "Info": "fl=35f394 ; h=www.cloudflare.com ; ip=45.118.134.242 ; ts=1599881107.71 ; visit_scheme=https ; uag=Mozilla/5.0 (iPhone; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/7.0.15(0x17000f2c) NetType/WIFI Language/zh_CN ; colo=SIN ; http=http/2 ; loc=SG ; tls=TLSv1.3 ; sni=plaintext ; warp=off ; ",
+    "Name": "测试",
+    "SID": "123456789"
+}
+{
+    "Department": "计算机科学与技术学院、软件学院",
+    "Time": "2020-9-12 23:40:35",
+    "ID": "330104200008223844",
+    "Info": "fl=35f546 ; h=www.cloudflare.com ; ip=45.118.134.242 ; ts=1599925237.008 ; visit_scheme=https ; uag=Mozilla/5.0 (iPhone; CPU iPhone OS 13_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/7.0.15(0x17000f2d) NetType/WIFI Language/zh_CN ; colo=SIN ; http=http/2 ; loc=SG ; tls=TLSv1.3 ; sni=plaintext ; warp=off ; ",
+    "Name": "王雨琪",
+    "SID": "201806100118"
+}
